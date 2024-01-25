@@ -1,7 +1,6 @@
 +++
 title = 'How to create blog on github.io'
 date = 2024-01-14T07:07:07+01:00
-draft = true
 +++
 ## Introduction
 
