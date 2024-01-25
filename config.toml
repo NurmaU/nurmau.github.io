@@ -1,0 +1,4 @@
+theme = "paper"
+baseURL = 'https://nurmau.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
