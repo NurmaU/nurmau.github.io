@@ -1,6 +1,6 @@
 +++
 title = 'How to create blog on github.io with Hugo'
-date = 2024-01-24T07:07:07+01:00
+date = 2024-01-14T07:07:07+01:00
 +++
 ## Introduction
 
