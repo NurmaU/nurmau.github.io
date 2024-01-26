@@ -6,12 +6,12 @@
     <description>Recent content in Posts on Experimental</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 07:07:07 +0100</lastBuildDate>
     <atom:link href="https://nurmau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to create blog on github.io with Hugo</title>
       <link>https://nurmau.github.io/posts/create_blog/</link>
-      <pubDate>Thu, 25 Jan 2024 07:07:07 +0100</pubDate>
+      <pubDate>Wed, 24 Jan 2024 07:07:07 +0100</pubDate>
       <guid>https://nurmau.github.io/posts/create_blog/</guid>
       <description>Introduction In this tutorial you will learn how to create personal website on github.io domain using Hugo. Hugo is a static site generator written in Go. It allows users to create websites quickly and easily. Hugo takes a directory with content and templates and renders them into a full HTML website. It is often used for creating blogs, documentation, and other types of static websites. For simple blogging website you only need to write content in .</description>
     </item>

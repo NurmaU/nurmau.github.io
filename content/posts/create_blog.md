@@ -1,6 +1,6 @@
 +++
 title = 'How to create blog on github.io with Hugo'
-date = 2024-01-25T07:07:07+01:00
+date = 2024-01-24T07:07:07+01:00
 +++
 ## Introduction
 
@@ -169,7 +169,7 @@ It creates folder `posts` with file my-first-post.md with content
 ```
 ---
 title: "My First Post"
-date: 2024-01-25T20:45:51-05:00
+date: 2024-01-24T20:45:51-05:00
 draft: true
 ---
 ```
@@ -178,7 +178,7 @@ By default all new changes considered as drafts. To visualise them locally need 
 ```bash
 hugo server --buildDrafts
 ```
-To apply changes in final version, change flag `draft: false` in `.md` file, delete folder `public` and recreate it with command `hugo` as above, so change will migrate from draft to `public`. Be careful if you have some unique files in public, backup them to safe place. 
+To apply changes in final version, change flag `draft: false` in `.md` file, delete folder `public` and recreate it with command `hugo` as above, so change will migrate from draft to `public`. Be careful if you have some unique files in public, backup them to safe place. Also if you met trouble not see website even if you published, probably the problem is the `date` in `.md`. Hugo don't publish immediately content with future dates. Just set date from past.
 
 In future if you want to change theme you only need to copy `.md` files.
 
